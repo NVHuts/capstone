@@ -1,0 +1,107 @@
+* {
+    font-size: 100%;
+    margin: 20px;
+    line-height: 1;
+}
+/* This is a sample comment! */
+body {
+    background-color:#ffcf67;
+    font-family:  "Cabin", sans-serif, Helvetica, Arial;
+    color:#751006;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border: 4px solid #751006;
+    padding: 10px;
+    width: 90%;
+    height: 90%;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Cabin", sans-serif, Helvetica, Arial;
+    color:#751006;
+    font-size: 40px;
+    font-weight: bold;
+    border: 2px solid #215600;
+    padding: 5px;
+    margin: 0 auto;
+    width: 50%;
+    height: 100%;
+    
+}
+
+h2, h3 {
+    text-align: left;
+    color:#751006;
+    font-family: "Cabin", sans-serif, Helvetica, Arial;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h4 {
+    color:#751006;
+    text-decoration: underline;
+    font-family: "Cabin", sans-serif, Helvetica, Arial;
+    font-size: 20px;
+}
+
+p {
+    line-height: 1.5;
+    color:#751006;
+    font-family: "Cabin", sans-serif, Helvetica, Arial;
+    font-size: 15px;
+}
+
+li {
+    color: #215600;
+    font-family: "Cabin", sans-serif, Helvetica, Arial;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 15px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color:blueviolet;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:cornflowerblue;
+}
+
+h1, h2, h3, h4 {
+    margin-bottom: 8px;
+}
+
+header {
+    text-align: center;
+}
+
+.title {
+    color:#215600;
+    font-weight: bold;
+}
+
+#footer {
+    background-color:burlywood;
+    padding: 10px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.banner {
+    height: 100px;
+    background-image: url(images/evie.jpg);
+    background-size: 90%;
+    background-position: center;
+}
+
+
+
